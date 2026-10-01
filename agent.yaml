@@ -1,0 +1,3 @@
+agents:
+  - name: ae-probe
+    path: agents/ae-probe
